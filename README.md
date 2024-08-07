@@ -8,3 +8,4 @@
 2. ```npm install```
 3. Clone and implement ```.env```
 4. Up db ```docker compose up -d```
+5. complete firebase-service-account.json
